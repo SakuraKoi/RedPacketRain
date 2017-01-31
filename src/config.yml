@@ -1,0 +1,14 @@
+# 红包雨插件By.Ldcr
+# http://www.mcbbs.net/thread-597548-1-1.html
+
+
+# ↓ 随机减少钱数倍数 (减少0.00-倍数.00) 请填写整数,默认为1
+Multiply: 1
+# ↓ 发红包最少需要发多少钱 默认1
+MinTotal: 1
+# ↓ 最大能发多少个红包 默认200
+MaxRedPacketCount: 200
+# ↓ 最小每个红包塞多少钱 默认1
+MinPerPacket: 1
+# ↓ 发红包时额外扣除多少钱(手续费) 默认0
+Cost: 0

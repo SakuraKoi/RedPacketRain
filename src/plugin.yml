@@ -1,0 +1,18 @@
+name: RedPacketRain
+main: ldcr.RedPacketRain.Main
+version: 1.4.0
+author: Ldcr
+commands:
+  redpacketrain:
+    description: 发一个红包雨
+    usage: /redpacketrain
+    permission: redpacketrain.use
+    permission-message: §c你没权限发红包啦~
+    aliases: [rpr,redpacket]
+permissions:
+  redpacketrain.use:
+    description: 发红包雨的权限.
+    default: true
+  redpacketrain.make:
+    description: 制作红包的权限.
+    default: op
